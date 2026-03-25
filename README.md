@@ -4,7 +4,7 @@
 
 ## Paper Title
 
-`\title{A View-Specific Dual-Task Framework for Fetal Heart UltraSound  Analysis}`
+`A View-Specific Dual-Task Framework for Fetal Heart UltraSound  Analysis`
 
 ## Overview
 
